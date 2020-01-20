@@ -110,6 +110,7 @@ For brevity, below lists only the first author of multi-omics methods.
 ## Multi-omics reviews / evaluations
 
 - 2014 - Kohl - [A practical data processing workflow for multi-OMICS projects](https://doi.org/10.1016/j.bbapap.2013.02.029)
+- 2015 - Ritchie - [Methods of integrating data to uncover genotype-phenotype interactions](https://doi.org/10.1038/nrg3868)
 - 2016 - Josse - [Measuring multivariate association and beyond](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5658146/)
 - 2016 - Ebrahim - [Multi-omic data integration enables discovery of hidden biological regularities](https://doi.org/10.1038/ncomms13091)
 - 2016 - Meng - [Dimension reduction techniques for the integrative analysis of multi-omics data](https://doi.org/10.1093/bib/bbv108)
